@@ -54,10 +54,10 @@ I am always looking to increase my knowledge and help my colleagues.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <hr/>
-
+ 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=AmirAliAzimloo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![AmirAliAzimloo's github stats](https://github-readme-stats.vercel.app/api?username=AmirAliAzimloo&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmirAliAzimloo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAliAzimloo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
