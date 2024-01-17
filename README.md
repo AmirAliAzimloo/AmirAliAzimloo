@@ -1,3 +1,6 @@
+[![Header](https://github.com/AmirAliAzimloo/AmirAliAzimloo/blob/master/banner.png?raw=true "Header")](https://github.com/AmirAliAzimloo) 
+
+
 ## 👋 Hello!
 
 I love developing paper ideas into practical projects and I really love the challenges of Front End programming. I have been
@@ -50,3 +53,10 @@ I am always looking to increase my knowledge and help my colleagues.
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+<hr/>
+
+### 🌐 Socials
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-ali-azimloo)
