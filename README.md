@@ -1,4 +1,5 @@
-[![Header](https://github.com/AmirAliAzimloo/AmirAliAzimloo/blob/master/banner.png?raw=true "Header")](https://github.com/AmirAliAzimloo) 
+[![Header](https://github.com/AmirAliAzimloo/AmirAliAzimloo/blob/main/banner.png?raw=true "Header")](https://github.com/AmirAliAzimloo) 
+
 
 
 ## 👋 Hello!
@@ -60,3 +61,12 @@ I am always looking to increase my knowledge and help my colleagues.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-ali-azimloo)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+<hr /> 
+
+### 😂 Random Dev Meme
+<img  src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
