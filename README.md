@@ -65,8 +65,10 @@ I am always looking to increase my knowledge and help my colleagues.
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-ali-azimloo)
-[![YouTube](https://img.shields.io/badge/gmail-%23FF0000.svg?logo=gmail&logoColor=white)](mailto:AmirAli01Azimloo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-ali-azimloo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AmirAli01Azimloo@gmail.com)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23311476/amir-ali-azimoo)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/amir-ali-azimloos-projects)
 
 ### ✍️ Random Dev Quote
 
