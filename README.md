@@ -73,9 +73,3 @@ I am always looking to increase my knowledge and help my colleagues.
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-<hr />
-
-### 😂 Random Dev Meme
-
-<img  src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
