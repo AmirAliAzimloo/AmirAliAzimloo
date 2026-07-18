@@ -1,75 +1,151 @@
-[![Header](https://github.com/AmirAliAzimloo/AmirAliAzimloo/blob/main/banner.png?raw=true "Header")](https://github.com/AmirAliAzimloo)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9&text=Amir%20Ali%20Azimloo&fontColor=ffffff&fontSize=52&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Solution%20Architect%20%7C%20Consultant&descAlignY=61" alt="Header Banner" />
+</div>
 
-## 👋 Hello!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=5BC0BE&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=85&lines=Designing+scalable+systems+that+survive+real+traffic;Turning+complex+business+problems+into+clean+software" alt="Typing Animation" />
+</div>
 
-I love developing paper ideas into practical projects and I really love the challenges of Front End programming. I have been
-working in this field for more than seven years, and during these years I have worked directly with more than 20 companies.
-I am always looking to increase my knowledge and help my colleagues.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Spain-0B132B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-Senior%20Engineer-1C2541?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-5BC0BE?style=for-the-badge&logo=icloud&logoColor=001219" alt="Cloud" />
+</p>
 
-<hr/>
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-impact-areas">Impact Areas</a> •
+  <a href="#-tech-universe">Tech Universe</a> •
+  <a href="#-live-engineering-dashboard">Dashboard</a> •
+</p>
 
-## 🛠️ Technologies & Tools
+---
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Saga](https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999)
-![Nuxt](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![GraphOl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Appolo GraphOl](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![CyPress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Shadcn-UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 👨‍💻 About Me
 
-<hr/>
- 
-### 📊 GitHub Stats:
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>
+      Impact driven <strong>Senior Software Engineer</strong> with <strong>+7 years</strong> of experience developing and optimizing <strong>scalable web
+applications</strong>, specializing in <strong>Nest.js</strong>, <strong>Go</strong>, and <strong>Next.js</strong>. 
+</p>
 
-[![AmirAliAzimloo's github stats](https://github-readme-stats.vercel.app/api?username=AmirAliAzimloo&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmirAliAzimloo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAliAzimloo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+Spearheaded the delivery of <strong>+25 mid to large-scale projects</strong>, consistently exceeding client expectations and driving revenue growth. 
+</p>
 
-<hr />
+<p>
+Experienced contributing to <strong>large Agile teams (100+ members)</strong> and skilled in <strong>Software architecture</strong>, <strong>performance optimization</strong>, and <strong>cloud based deployment</strong>.
+</p>
+      <p>
+        🤝 <strong>Connect with me:</strong><br/>
+        <a href="https://www.linkedin.com/in/amir-ali-azimloo">
+          <img src="https://img.shields.io/badge/LinkedIn-Let's%20Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </p>
+    </td>
+    <td width="38%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xrcDJzZmI0dWw0OGVvZGdzaWlyM3Nza2h4M2M4MzBmNGY2aXRzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="Coding animation" />
+    </td>
 
-### 🌐 Socials
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-ali-azimloo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AmirAli01Azimloo@gmail.com)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23311476/amir-ali-azimoo)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/amir-ali-azimloos-projects)
+---
 
-### ✍️ Random Dev Quote
+## 🎯 Impact Areas
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=700&color=3A506B&center=true&vCenter=true&width=900&lines=Architecture+that+keeps+complexity+under+control;Delivery+systems+that+increase+engineering+throughput;Platforms+built+for+real+business+outcomes" alt="Impact typing" />
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏗️ Architecture</h3>
+      <p>Domain-driven boundaries, modular services, and API contracts designed for long-term change.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>☁️ Cloud & Reliability</h3>
+      <p>Production hardening, infrastructure automation, and observability-first operational design.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛒 Commerce Platforms</h3>
+      <p>Composable stacks integrating checkout, content, search, personalization, and payments.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech Universe
+
+### Core Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,java,py,nodejs,nestjs,spring,react,nextjs,angular,vue" alt="Core Stack" />
+</p>
+
+### Cloud & Platform Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,git,bitbucket" alt="Cloud and Platform" />
+  <img src="https://cdn.simpleicons.org/portainer/13BEF9" alt="Portainer" width="48" />
+  <img src="https://cdn.prod.website-files.com/681399f654933b29e12fb8bd/6a4e9751b01320fa5ed6aaf3_Dagster%20icon_reversed.svg" alt="Dagster" width="48" />
+</p>
+
+### APIs, AI, and Commerce Integrations
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=101010" alt="Swagger" />
+  <img src="https://img.shields.io/badge/SOAP-0A66C2?style=for-the-badge" alt="SOAP" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Commercetools-2E3A59?style=for-the-badge" alt="Commercetools" />
+  <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful" />
+  <img src="https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+</p>
+
+---
+
+## 📡 Live Engineering Dashboard
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amiraliazimloo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=amiraliazimloo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraliazimloo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amiraliazimloo&theme=tokyonight" alt="Productive time" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiraliazimloo&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amiraliazimloo&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
+
+---
+
+## 🌟 Profile Motion Zone
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:3A506B,100:5BC0BE&height=2&section=header" alt="divider" width="90%" />
+</div>
+
+<p align="center">
+  <i>"Build systems that future you can still love maintaining."</i>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9" alt="Footer Banner" />
+</div>
