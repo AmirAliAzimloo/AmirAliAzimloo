@@ -127,7 +127,7 @@ Experienced contributing to <strong>large Agile teams (100+ members)</strong> an
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amiraliazimloo&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amiraliazimloo&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="" />
 </div>
 
 ---
