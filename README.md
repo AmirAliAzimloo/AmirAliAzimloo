@@ -113,13 +113,13 @@ Experienced contributing to <strong>large Agile teams (100+ members)</strong> an
 ## 📡 Live Engineering Dashboard
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amiraliazimloo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amiraliazimloo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="" />
   <img height="170" src="https://streak-stats.demolab.com?user=amiraliazimloo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraliazimloo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amiraliazimloo&theme=tokyonight" alt="Productive time" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraliazimloo&layout=compact&theme=tokyonight&hide_border=true" alt="" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amiraliazimloo&theme=tokyonight" alt="" />
 </div>
 
 <div align="center">
